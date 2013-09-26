@@ -1,0 +1,11 @@
+{
+  "name": "harvester",
+  "title": "Simple CSS concatination",
+  "author": "Andy Hamilton",
+  "copyright": "2013",
+  "version": "0.0.1",
+  "license": "MIT",
+  "dependencies": {
+    "express":"*"
+  }
+}
